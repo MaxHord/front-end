@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/front-end/static/css/main.a4782331.chunk.css",
+    "main.css": "/front-end/static/css/main.a04d3e56.chunk.css",
     "main.js": "/front-end/static/js/main.328220cc.chunk.js",
     "main.js.map": "/front-end/static/js/main.328220cc.chunk.js.map",
     "runtime-main.js": "/front-end/static/js/runtime-main.11274380.js",
@@ -8,9 +8,9 @@
     "static/js/2.3b2006f1.chunk.js": "/front-end/static/js/2.3b2006f1.chunk.js",
     "static/js/2.3b2006f1.chunk.js.map": "/front-end/static/js/2.3b2006f1.chunk.js.map",
     "index.html": "/front-end/index.html",
-    "precache-manifest.d6f686374cbc11c4a836cf7ed01b0364.js": "/front-end/precache-manifest.d6f686374cbc11c4a836cf7ed01b0364.js",
+    "precache-manifest.048a3f494ca5dc112ee1c29b96b49b25.js": "/front-end/precache-manifest.048a3f494ca5dc112ee1c29b96b49b25.js",
     "service-worker.js": "/front-end/service-worker.js",
-    "static/css/main.a4782331.chunk.css.map": "/front-end/static/css/main.a4782331.chunk.css.map",
+    "static/css/main.a04d3e56.chunk.css.map": "/front-end/static/css/main.a04d3e56.chunk.css.map",
     "static/js/2.3b2006f1.chunk.js.LICENSE.txt": "/front-end/static/js/2.3b2006f1.chunk.js.LICENSE.txt",
     "static/media/style.css": "/front-end/static/media/max.48ea1ffa.jpg",
     "static/media/Star_Wars_logo.png": "/front-end/static/media/Star_Wars_logo.5d100186.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.11274380.js",
     "static/js/2.3b2006f1.chunk.js",
-    "static/css/main.a4782331.chunk.css",
+    "static/css/main.a04d3e56.chunk.css",
     "static/js/main.328220cc.chunk.js"
   ]
 }
