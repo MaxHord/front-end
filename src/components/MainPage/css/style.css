@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'Gotham-Bold';
+    src: url("../fonts/Gotham-Bold.otf");
+}
+
+@font-face {
+    font-family: 'Gotham-Book';
+    src: url("../fonts/Gotham-Book.otf");
+}
+
+@font-face {
+    font-family: 'Gotham-Medium';
+    src: url("../fonts/Gotham-Medium.otf");
+}
+
+@font-face {
+    font-family: 'Myriad-Pro';
+    src: url("../fonts/Myriad-Pro.otf");
+}
+
+nav {
+    background-color: transparent;
+}
+
+a.nav-link {
+    font-family: 'Myriad-Pro';
+    font-size: 20px;
+    color: #EBD71C;
+    transition: 0.3s ease;
+}
+a.nav-link:hover{
+    color: #ffffff;
+}
+
+/*HEADER*/
+header {
+    width: 100%;
+    height: auto;
+    z-index: 4;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+div.center-nav{
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    padding: 0.65em;
+}
+
+body {
+    width: 100%;
+    height: auto;
+    background-color: #000000;
+}
+
+@media (max-width: 992px) {
+    li.logo {
+        padding-left: 0.63em;
+        padding-right: 0.63em;
+    }
+    li {
+        padding: 0px;
+    }
+}
+
+/* Block about */
+.rowDiv {
+    min-height: 474px;
+}
+
+.cart-text {
+    background-color: #000000;
+}
+
+.cart-photo-right {
+    background-image: url(../img/cart1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 474px;
+}
+
+.cart-photo-left {
+    background-image: url(../img/cart4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 474px;
+}
+
+@media (min-width: 1250px) {
+    .textin {
+        padding-left: 12em;
+        padding-top: 3.8em;
+    }
+}
+.smallLeters {
+    font-family: 'Gotham-Book';
+    font-size: 16px;
+    padding-top: 1.9em;
+}
+.bigLeters {
+    font-family: 'Gotham-Medium';
+    font-size: 25px;
+}
+.textin{
+    color:#ffffff;
+}
+
+/*Block team*/
+.logoWord {
+    padding-top: 6.3em;
+    text-align: center;
+}
+
+.textOnFotoTeam {
+    font-family: 'Gotham-Medium';
+    font-size: 37.55px;
+    color: #EBD71C;
+    text-transform: uppercase;
+}
+
+.titelTeam {
+    font-family: 'Gotham-Book';
+    font-size: 30.06px;
+    color: #ffffff;
+}
+
+.nameTeam {
+    font-family: 'Lato', Helvetica, sans-serif;
+    font-size: 16px;
+    position: absolute;
+    bottom: 0;
+    background-color: #EBD71C;
+    width: 89%;
+}
+
+br~span {
+    color: #000000;
+    font-weight: 700;
+}
+
+.blockTeam {
+    padding-top: 3%;
+}
+
+.teamBlock {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 40em;
+}
+
+.ceo {
+    background-image: url(../img/karyna.jpg);
+}
+
+.designer {
+    background-image: url(../img/max.jpg);
+}
+
+.yoda {
+    background-image: url(../img/baby-yoda.jpg);
+}
+
+.team {
+    min-height: 640px;
+}
